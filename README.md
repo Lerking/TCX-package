@@ -1,20 +1,7 @@
-# Go repo template
-- You can use this template to create a new golang repo.
-  - Start by forking this template repo to your own github page.
-    - Then create a new repo on your github page, using this repo template.
-  - __Note:__ This template is not a golang project, it is a template for creating a new golang repo.</br>
-  Also the README file here only works with ___public___ repos.
-  After creating a new repo, you will need to change the README file to suit your needs.</br>
-  All badges with repo references must be updated to point to your new repo. Otherwise you'll see info from this template repo instead.</br>
-  If you create a ___private___ repo, you will need to change the README file to suit your needs.</br>
-  Badges referencing a repo can only be seen on ___public___ repos. ___Private___ repos are not visible to the badge service.
-  - __Note:__ The wakatime badge requires a wakatime account.
-- After creating the new repo, you can replace the GPLv3 license with another license that suits you, if required.
-- Then start your golang project with go mod init.
+# TCX package
+A set of small functions to read and write TCX files
 
-Example Go project repo based on this template [Test Go project](https://GitHub.com/Lerking/test-go-project)
-
-[![GitHub forks](https://img.shields.io/github/forks/Lerking/golang-repo-template.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/forks/)
+[![GitHub forks](https://img.shields.io/github/forks/Lerking/TCX-package.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/forks/)
 [![GitHub stars](https://img.shields.io/github/stars/Lerking/golang-repo-template.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Lerking/golang-repo-template.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/watchers/)
 
