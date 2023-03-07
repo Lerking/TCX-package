@@ -34,7 +34,7 @@ A set of small functions to read and write TCX files
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Lerking/TCX-package)
 
 Coding time for this project.</br>
-[![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/3bf1925d-c859-44af-b2e6-3f53d804d3a0.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/3bf1925d-c859-44af-b2e6-3f53d804d3a0)
+[![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/5ab7a577-f088-4ccb-ade9-e59a8318052d.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/5ab7a577-f088-4ccb-ade9-e59a8318052d)
 
 See the wiki for usage and examples.
 [TCX-package wiki page](https://github.com/Lerking/TCX-package/wiki)
